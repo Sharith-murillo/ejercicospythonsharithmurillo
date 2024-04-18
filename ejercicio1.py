@@ -16,7 +16,7 @@ print("la operacio es", multiplicacion)
 f=44
 g=15
 cociente= f/g
-print("el resultado es", ciciente)
+print("el resultado es", cociente)
 
 t=19
 h= 90
